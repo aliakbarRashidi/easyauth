@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="sectioned-recyclerview-0.2.2">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../app/build/intermediates/exploded-aar/com.github.zhukic/sectioned-recyclerview/0.2.2/res" />
+      <root url="jar://$PROJECT_DIR$/../app/build/intermediates/exploded-aar/com.github.zhukic/sectioned-recyclerview/0.2.2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.zhukic/sectioned-recyclerview/0.2.2/ce3f8b668ab7271a1fad03e7d481c17a7747a507/sectioned-recyclerview-0.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
